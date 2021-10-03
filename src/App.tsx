@@ -82,7 +82,7 @@ function App() {
       </div>
 
 
-      <div className="min-h-screen  mx-auto px-6 md:pl-24 bg-gradient-to-b from-gold via-white">
+      <div className="min-h-screen jj  mx-auto px-6 md:pl-24 bg-gradient-to-b from-gold via-white">
         <h1 className="text-6xl font-bold  pt-24">How it works</h1>
         <h1 className="text-3xl font-medium pt-9">What we do for you!</h1>
 
