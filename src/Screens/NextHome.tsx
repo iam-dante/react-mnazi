@@ -1,5 +1,5 @@
 import {MnaziLogo, InstagramLogo} from './assets/icons'
-export function(){
+export function NextHomePage(){
     return(
     <>
         <div className="bg-goldyellow min-h-screen mx-auto px-6 md:px-12 pb-12">
