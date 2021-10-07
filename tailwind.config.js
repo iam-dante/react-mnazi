@@ -5,7 +5,9 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        "gold": "#EDC285"
+        "gold": "#EDC285",
+        "goldyellow": "#EDC285",
+        "logo-gold": "#A47705"
       },
       fontFamily:{
         sans : ['"Inter"', '"san-serif"']
