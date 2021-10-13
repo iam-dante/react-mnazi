@@ -1,4 +1,4 @@
-import {MnaziLogo, InstagramLogo} from './assets/icons'
+import {MnaziLogo, InstagramLogo} from '../assets/icons'
 export function NextHomePage(){
     return(
     <>

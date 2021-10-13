@@ -1,5 +1,5 @@
 // import {MnaziLogo, InstagramLogo, RightArrow, ScrollLeft,ScrollRight, WhatAppIcon, EmailIcon, YoutubeIcon, FacebookIcon, } from "./assets/icons"
-import {FirstScreen, GetToKnowScreen, ExploreScreen, ScheduledScreen, Footer, ContactScreen} from './components/Parts'
+// import {FirstScreen, GetToKnowScreen, ExploreScreen, ScheduledScreen, Footer, ContactScreen} from './components/Parts'
 import { HomeScreen } from "./Screens/HomeScreen"
 
 
