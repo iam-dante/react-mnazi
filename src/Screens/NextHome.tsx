@@ -10,6 +10,8 @@ export function NextHomePage(){
             <h1 className="font-mono text-xl text-logo-gold">TOURS & SAFARI</h1>
         </div>
         <h1 className="hidden md:absolute md:right-32 md:text-logo-gold">Contact us</h1>
+        <h1 className="hidden md:absolute md:right-32 md:text-logo-gold">Contact us</h1>
+
         <InstagramLogo className="absolute right-2 md:right-12 text-logo-gold"/>
       </div>
       <div className="flex items-center justify-center md:mt-44">
@@ -17,7 +19,7 @@ export function NextHomePage(){
           <h1 className="text-6xl font-bold  lg:w-1/3 text-center">Hearts made to travel the world</h1>
           <h1 className="text-xl text-center md:w-1/3 text-logo-gold ">Aliquam erat volutpat. Vivamus sit amet tempor ex. Donec vitae urna purus. In vitae lorem sed massa consectetur maximus. Curabitur placerat est ipsum, pretium aliquet tellus commodo sed.</h1>
           <div className="h-12 border-2 rounded-lg flex items-center justify-center px-6">
-              <h1 className="text-xl text-white">Check us out</h1>
+              <h1 className="text-xl text-white ">Check us out</h1>
           </div>
         </div>
       </div>
